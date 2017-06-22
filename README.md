@@ -3,6 +3,6 @@ These APIs enable developers to retrieve job postings for a specific keyword or 
 
 <h2>Job APIs<h2>
 
-<a href="https://www.careeronestop.org/Developers/WebAPI/Jobs/list-jobs.aspx">List At Jobs
+<a href="https://www.careeronestop.org/Developers/WebAPI/Jobs/list-jobs.aspx">List Jobs
 
 <a href="https://www.careeronestop.org/Developers/WebAPI/Jobs/list-and-count-jobs-locations-and-employers.aspx">List and Count Jobs
